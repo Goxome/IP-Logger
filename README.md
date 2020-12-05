@@ -44,7 +44,6 @@ IP-Logger helped to mapping of an IP address to the geographic location of the i
 * `python IP-Logger.py -v (your victim ip here)`
 
 ```
-
 IP Example:- python IP-Logger.py  -v 8.8.8.8
 
 URL Example:- python IP-Logger.py  -v www.google.com
