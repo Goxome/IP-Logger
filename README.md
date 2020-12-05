@@ -45,4 +45,6 @@ IP-Logger helped to mapping of an IP address to the geographic location of the i
 
 ```
 
-For Example:- python IP-Logger.py  -v 192.168.18.3
+IP Example:- python IP-Logger.py  -v 8.8.8.8
+
+URL Example:- python IP-Logger.py  -v www.google.com
